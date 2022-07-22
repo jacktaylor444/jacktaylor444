@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Jack Taylor
-- 🌱 I’m currently studying Computer Science and Engineering at The Ohio State University
+- 👋 Hi, I’m Jack 
 
 <!---
 jacktaylor444/jacktaylor444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
